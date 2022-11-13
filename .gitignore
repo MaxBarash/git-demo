@@ -1,4 +1,4 @@
-#ignor directory with the name
+#ignor directory
 .target/ 
 .bin/
 #ignore file 
@@ -6,4 +6,3 @@
 *.log
 #ignor sistem file
 .DS_Store
-.gitattributes
