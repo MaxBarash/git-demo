@@ -1,4 +1,4 @@
-#ignor directory with the name
+#ignor directory
 .target/ 
 .bin/
 #ignore file 
